@@ -1,0 +1,11 @@
+{
+  "name": "MacHizmet — Mac'te Windows 11 Kurulumu",
+  "short_name": "MacHizmet",
+  "description": "Apple Silicon Mac için Windows 11 ARM64 kurulum ve entegrasyon hizmeti",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#0a0a0f",
+  "lang": "tr",
+  "icons": []
+}
